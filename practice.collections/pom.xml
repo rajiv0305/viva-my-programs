@@ -32,7 +32,7 @@
 		<crunch.version>0.11.0-cdh5.4.2</crunch.version>
 		<avro.version>1.7.6-cdh5.4.2</avro.version>
 		<kite.version>1.0.0-cdh5.4.2</kite.version>
-		<solr.lucene.version>4.10.3-cdh5.4.2</solr.lucene.version>
+		<solr.lucene.version>8.8.2</solr.lucene.version>
 		<cloudera.search.version>1.0.0-cdh5.4.2</cloudera.search.version>
 		<hbase.ngdata.version>1.5-cdh5.4.2</hbase.ngdata.version>
 
