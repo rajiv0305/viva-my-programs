@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hadoop.version>2.6.0-cdh5.4.2</hadoop.version>
+		<hadoop.version>2.10.2</hadoop.version>
 		<hadoop.mr.version>2.6.0-mr1-cdh5.4.2</hadoop.mr.version>
 		<hive.version>1.1.0-cdh5.4.2</hive.version>
 		<hbase.version>1.0.0-cdh5.4.2</hbase.version>
