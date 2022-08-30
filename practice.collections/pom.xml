@@ -17,7 +17,7 @@
 		<hive.version>1.1.0-cdh5.4.2</hive.version>
 		<hbase.version>1.0.0-cdh5.4.2</hbase.version>
 		<pig.version>0.12.0-cdh5.4.2</pig.version>
-		<flume.version>1.5.0-cdh5.4.2</flume.version>
+		<flume.version>1.10.1</flume.version>
 		<oozie.version>4.1.0-cdh5.4.2</oozie.version>
 		<oozie.mr.version>2.6.0-mr1-cdh5.4.2.oozie-4.1.0-cdh5.4.2</oozie.mr.version>
 		<oozie.hbase.version>1.0.0-cdh5.4.2.oozie-4.1.0-cdh5.4.2</oozie.hbase.version>
